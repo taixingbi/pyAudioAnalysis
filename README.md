@@ -1,5 +1,4 @@
-### refence 
-https://github.com/tyiannak/pyAudioAnalysis
+
 
 ### setup env
 ```
@@ -13,4 +12,8 @@ pip install -r requirements.txt
 python test.py
 ```
 
-
+### refence 
+```
+https://github.com/tyiannak/pyAudioAnalysis
+https://mmchiou.gitbooks.io/ai_gc_methodology_2018_v1-private/content/zhong-wen-yu-yin-sentence-segmentation/acoustic-domain-sentence-segmentation/pyaudioanalysispy.html
+```
